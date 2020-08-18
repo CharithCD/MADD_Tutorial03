@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IntentProj</string>
+    <string name="tv01">Number 01:</string>
+    <string name="tv02">Number 02:</string>
+    <string name="btn_Ok">OK</string>
+    <string name="ip01">Enter Number 01</string>
+    <string name="ip02">Enter Number 02</string>
+    <string name="addition">+</string>
+    <string name="subtraction">-</string>
+    <string name="multiplication">*</string>
+    <string name="devision">/</string>
+</resources>
